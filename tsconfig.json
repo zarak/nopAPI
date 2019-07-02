@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "target": "es2016",
+    "module": "commonjs",
+    "resolveJsonModule": true,
+    "rootDirs": ["./src", "./resources"],
+    "sourceMap": true,
+    "strict": true
+  }
+}
