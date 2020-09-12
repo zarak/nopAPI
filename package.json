@@ -8,6 +8,6 @@
     "@types/node-fetch": "^2.3.7",
     "cross-fetch": "^3.0.4",
     "dotenv": "^8.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
